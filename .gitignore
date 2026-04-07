@@ -1,0 +1,13 @@
+# Compilati GHDL
+*.o
+*.cf
+
+# Cache Python
+tools/__pycache__/
+*.pyc
+
+# File utente IDE
+*.gprj.user
+
+# Output implementazione (bitstream, report, ecc.)
+impl/
