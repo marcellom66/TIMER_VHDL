@@ -4,7 +4,7 @@ Generatore video HDMI scritto in VHDL per la scheda **Sipeed Tang Nano 20K**.
 Produce un segnale **1280×720 @ 60 Hz** con pattern di test selezionabili e un
 overlay orologio **HH:MM:SS** in sovraimpressione.
 
-![colorbars](docs/colorbars.png)
+![colorbars](docs/colorbars.jpeg)
 
 ---
 
